@@ -2,8 +2,8 @@
 layout:     post
 title:      "标题"
 subtitle:   "副标题"
-date:       2015-01-29 12:00:00
-author:     "Hux"
+date:       2024-04-25 22:34:08
+author:     "作者"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -15,6 +15,7 @@ tags:
 
 正文
 
+上面的时间应该是要按一定格式来打：“XXXX-XX-XX XX:XX:XX”
 [跳转](#位置1) 
 
 依旧可以放正文
